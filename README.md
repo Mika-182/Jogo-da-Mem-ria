@@ -1,2 +1,2 @@
-# Jogo-da-Mem-ria
-Jogo da memória estilo Genius
+# Jogo da Memória
+## Jogo da memória estilo Genius
